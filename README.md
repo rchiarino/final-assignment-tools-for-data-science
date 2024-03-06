@@ -1,2 +1,12 @@
 # final-assignment-tools-for-data-science
-The final assignment of the "Tools for Data Science" course. This repository contains all the materials and documentation related to the final assignment. 
+In this repository is all the files and notebook for the final assignment of the course Tools for Data Science.
+
+## Notebook
+[My Notebook](./DataScienceEcosystem.ipynb)
+## Images
+
+All the screenshots of the notebook are in the folder [images](/images/).
+
+### Notebook Preview
+
+![Preview](images/1-notebook.png)
